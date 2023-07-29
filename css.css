@@ -1,0 +1,67 @@
+#wpsm_counter_b_row_4063 .wpsm_counterbox
+{
+	text-align:center;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+#wpsm_counter_b_row_4063 .wpsm_counterbox .wpsm_count-icon{
+	display:block;
+	margin-top:20px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	margin:0 auto;
+}
+#wpsm_counter_b_row_4063 .wpsm_counterbox .wpsm_count-icon i{
+	font-size:50px;
+	color:#2177ce;
+}
+#wpsm_counter_b_row_4063 .wpsm_counterbox .wpsm_number{
+	font-size:42px;
+	font-weight:600;
+	color:#000000;
+	font-family:'Open Sans';
+	letter-spacing:2px;
+	margin-top:20px;
+	line-height: 1.3em;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+}
+#wpsm_counter_b_row_4063 .wpsm_counterbox .wpsm_count-title{
+    font-size:21px;
+	font-weight:bolder;
+	font-family:'Open Sans';
+	letter-spacing:2px;
+    color: #1e73be;
+	font-weight:600;
+	margin-top:20px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	line-height: 1.3em;
+}
+
+</style>
+<style>
+		#wpsm_counter_b_row_4063			{
+				
+				position:relative;
+				width:100%;
+				overflow:hidden;
+				text-align:center;
+			}
+			 
+			#wpsm_counter_b_row_4063 .wpsm_row{
+			overflow:hidden;
+			display:block;
+			width:100%;
+			} 
+			 
+			#wpsm_counter_b_row_4063 .wpsm_row{
+			overflow:visible;
+			} 
+			 
+			#wpsm_counter_b_row_4063 .wpsm_counterbox .wpsm_count-title{
+			min-height:56px;
+			}
